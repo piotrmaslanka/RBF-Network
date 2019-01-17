@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from RBFN import RBFN
+from RBFN.RBFN import RBFN
 
 x = np.linspace(0, 10, 100)
 y = np.sin(x)
