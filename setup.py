@@ -5,4 +5,4 @@ setup(name='RBF-Network',
       url='https://github.com/oarriaga/RBF-Network',
       requires=['numpy'],
       author='Octavo Arriaga',
-     author_email='arriaga.camargo@gmail.com')
+      author_email='arriaga.camargo@gmail.com')
